@@ -1,0 +1,2246 @@
+[
+  {
+    "name": "Grand Central Market",
+    "content": "Market place with stands to eat different types of food or buy seafood, spices, beans and peas, liquors and more. Very charming and lively place. Full of locals and tourists. Parking garage entrance 308 S Hill Street.",
+    "price": "$10",
+    "url": "http://www.grandcentralmarket.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 34.05086,
+      "lon": -118.24895
+    },
+    "phone": "+1 213 624-2378"
+  },
+  {
+    "name": "The Original Pantry Cafe",
+    "content": "The Pantry boasts that it has never closed or been without a customer since it first opened in 1924 (Want proof? The front entrance has no lock on it). Come here on any morning and you will see a line stretching around the block - the wait is worth it, and the fast service will have hot plate of food in front of you within minutes of sitting down. Best place for breakfast after midnight. At present, is owned by former mayor Richard Riordan.",
+    "price": "Cash only",
+    "url": "http://www.pantrycafe.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 34.046397,
+      "lon": -118.26292
+    },
+    "phone": "+1 213 972-9279"
+  },
+  {
+    "name": "Kendall's Brasserie",
+    "content": "Great French menu at a perfect location to catch any of the great evening programs at the surrounding venues. Whatever you order, do not miss their French Fries!",
+    "price": "Mains from $15",
+    "url": "http://www.patinagroup.com/kendallsBrasserie/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 34.057565,
+      "lon": -118.248114
+    },
+    "phone": "+1 213 972-7322"
+  },
+  {
+    "name": "Riordan's Tavern",
+    "content": "Good (but slightly pricey) pub food in the heart of downtown near the Staples Center. The Mayor's Burger is a one pound beast with chili, bacon, and all the fixings, or you can try the daily carvery sandwich. Steaks and seafood are also decent, and the drinks are poured stiff.",
+    "price": "$15-30",
+    "url": "http://www.riordanstavern.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 34.046468,
+      "lon": -118.262797
+    },
+    "phone": "+1 213 627-6879"
+  },
+  {
+    "name": "Wood Spoon",
+    "content": "Features Brazilian-inspired dishes that are different from what most American restaurants serve as &quot;Brazilian&quot;. Rice, beans and plantains are in use, but entrees such as a Brazilian-inspired pot pie and cinnamon water will be new to most diners. Jacqueline, the very gracious chef, will usually make the rounds once the kitchen closes and can tell some very interesting stories about her life after coming to the States.",
+    "price": "$10-20 per person",
+    "url": "http://woodspoonla.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 34.041883,
+      "lon": -118.255147
+    },
+    "phone": "+1 213 629-1765"
+  },
+  {
+    "name": "Yorkshire Grill",
+    "content": "Yorkshire Grill has been operating since 1954, with many a lucrative business deal having been negotiated over the famous Yorkshire pastrami sandwich. Open early, the Yorkshire breakfast dishes are some of the best in the area and their old school diner coffee will get you off to a strong start to your day! Lunch is always packed at Yorkshire so be sure to get there early, however Yorkshire also offers delivery to your home or place of business.",
+    "price": "$10",
+    "url": "http://www.yorkshire-grill.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 34.048855,
+      "lon": -118.255619
+    },
+    "phone": "+1 213 629-3020"
+  },
+  {
+    "name": "Habayit",
+    "content": "The only kosher restaurant on the Westside. Serving delicious, homemade American-Israeli cuisine for to-go or delivery.",
+    "price": "$10",
+    "url": "http://www.habayitrestaurant.com",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 34.03026,
+      "lon": -118.44862
+    },
+    "phone": "+1 310 479-7173"
+  },
+  {
+    "name": "Westside Tavern",
+    "content": "American cuisine with a luxury taste at a moderate price. Atmosphere is relaxed and clean, with good ambient lighting. Go upstairs and are some theaters. Catch an arts film or the newest blockbuster.",
+    "price": "$15-25",
+    "url": "http://www.westsidetavernla.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 34.03998,
+      "lon": -118.42858
+    },
+    "phone": "+1 310 470 1539"
+  },
+  {
+    "name": "Blu Jam Cafe",
+    "content": "Good food with options for everyone. Even some Czech items.",
+    "price": "Almost every meal is under $10",
+    "url": "http://www.blujamcafe.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 34.083754,
+      "lon": -118.350598
+    },
+    "phone": "+1 323 951-9191"
+  },
+  {
+    "name": "M Café",
+    "content": "One of the hottest new places in Hollywood. If you've been infected with Organica or Macrobiotica, head here ''now''. It's often impossibly crowded and parking's a nightmare. They've got lots of premade things that are handy if you're short on time, otherwise it's better to order fresh, considering how far you'll be set back.",
+    "price": "Most mains hover around the $10-15 range",
+    "url": "http://mcafedechaya.com",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 34.08372,
+      "lon": -118.344914
+    },
+    "phone": "+1 323 525-0588"
+  },
+  {
+    "name": "Animal",
+    "content": "Somewhat of an anomaly in an increasingly vegetarian Los Angeles, Animal does what it does extremely well. Jon and Vinny (''Two Dudes Catering'', ''Iron Chefs'') have finally opened their first restaurant, and their hard work and determination most certainly shows up in the super tasty and creative cuisine. Pescatarians will do just fine with the daily fish, but vegetarians beware, there's not much here for you.",
+    "price": "Mains ~ $30",
+    "url": "http://www.animalrestaurant.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 34.07922,
+      "lon": -118.361628
+    },
+    "phone": "+1 323 782-9225"
+  },
+  {
+    "name": "Paradise Cove",
+    "content": "On its own private beach, the ONLY beach in all of Southern California that allows alcohol. Has a private picnic area with tables and chairs, no need to purchase food from the restaurant. There is parking which you need to pay, you can get your ticket validated inside. The atmosphere is great and the food is pretty good, this is the local hot spot for people of all ages. Romantic enough for a date but fun enough for the whole family. Can get very, very crowded in the morning so call ahead and make your reservation (probably a good idea regardless of the time slot).",
+    "price": "reasonably priced food, some things are labeled as M.P (market price) but other dishes range from $9.00 to $26.00. A great family place with a stocked bar",
+    "url": "http://www.paradisecovemalibu.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 34.02019,
+      "lon": -118.7871
+    },
+    "phone": "+1 310-457-2503"
+  },
+  {
+    "name": "J. Nichols Kitchen",
+    "content": "Billing itself as &quot;upscale comfort food&quot;, selections include a variety of made-from-scratch meals including breakfast standards (served until 2PM), sandwiches, meatloaf, ribs, steaks, pork chops, salads, and pizzas. Expect unique touches with most dishes - fries are served in conical containers, the turkey stuffing is made from cornbread, the pit beef is served with carmelized onions.",
+    "price": "$10-$20",
+    "url": "http://www.jnicholskitchen.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 33.9865,
+      "lon": -118.43974
+    },
+    "phone": "+1-310-823-2283"
+  },
+  {
+    "name": "Toast",
+    "content": "Cool wine bar located in Rockridge. During lunch, it gets busy with stay at home mom's and kids, but in the evening it's a hip date and social spot. A bar serves only small plates, but the restaurant serves sit down dinner. An ever changing menu based on seasonal ingredients, craft cocktails and wine. Outdoor patio is right on College Avenue, and a great place for people watching.",
+    "price": "$15 per person without alcohol",
+    "url": "http://www.toastoakland.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.84722,
+      "lon": -122.25195
+    },
+    "phone": "+1 510 658-5900"
+  },
+  {
+    "name": "il vecchio",
+    "content": "Casual Italian eatery design with reclaimed wood giving it a homely feel. Decent portions, many small plates, house made pasta and desserts. Wine on tap and Italian apertif are a speciality. Make a reservation on the weekends!",
+    "price": "$7-20 without alcohol",
+    "url": "http://www.ilvecchiorestaurant.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 36.6177,
+      "lon": -121.9052
+    },
+    "phone": "+1-831-324-4282"
+  },
+  {
+    "name": "The Shack",
+    "content": "While this restaurant now has six locations (two in California, three in Hawaii, and one in Colorado), the Playa del Rey location is the original, opened in 1972.  A surfer bar next to the beach (&quot;Dude food without peer&quot; according to the LA Times), the signature dish is the Shack Burger, a 1/4 pound burger with a Portuguese sausage for $6.50 ($6.25 without cheese).  Order at the counter, hang out in a booth, and enjoy the vibe.  There are also plenty of televisions showing the latest games, and a bar serving the standard American beers (Budweiser, Miller, etc) to help quench your thirst after a day on the waves.  The one downside of this place is that its tiny parking lot fills quickly, and street parking can often be a challenge.",
+    "price": "Under $10 per person with beverage",
+    "url": "http://www.the-shacks.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 33.95872,
+      "lon": -118.44871
+    },
+    "phone": "+1-310 823-6222"
+  },
+  {
+    "name": "The Prado",
+    "content": "Just about the only full-service restaurant in Balboa Park (save for a couple of places in the zoo), The Prado has a diverse menu with appetizers, salads, soups, seafood, pastas, and sandwiches.",
+    "price": "$11-$40",
+    "url": "http://www.cohnrestaurants.com/cohn/cohnrestaurants/prado.php",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 32.73111,
+      "lon": -117.14964
+    },
+    "phone": "+1 619 557-9441"
+  },
+  {
+    "name": "Busalacchi's A Modo Mio",
+    "content": "Fine Italian restaurant.",
+    "price": "$10-$35",
+    "url": "http://www.busalacchis.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 32.7453,
+      "lon": -117.16019
+    },
+    "phone": "+1 619 298-0119"
+  },
+  {
+    "name": "Ichiban",
+    "content": "Good Japanese food.",
+    "price": "$6-$8 (''Sushi/Sushi rolls $3-$8)",
+    "url": "http://ichibansushisandiego.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 32.74824,
+      "lon": -117.15004
+    },
+    "phone": "+1 619 299-7203"
+  },
+  {
+    "name": "Khyber Pass",
+    "content": "A mix of Afghan, Turkish, and Indian dishes served by a friendly staff. Lamb, beef, chicken, and vegetarian/vegan dishes.  Located on University Avenue among many other restaurants.  Street parking only.",
+    "price": "$13-$30",
+    "url": "http://www.khyberpasscuisine.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 32.7481,
+      "lon": -117.16001
+    },
+    "phone": "+1 619 294-7579"
+  },
+  {
+    "name": "Brockton Villa",
+    "content": "Well known for their breakfast and lunch menus.",
+    "price": "$12-$25",
+    "url": "http://www.brocktonvilla.signonsandiego.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 32.84985,
+      "lon": -117.27153
+    },
+    "phone": "+1 858 454-7393"
+  },
+  {
+    "name": "Rosa's Pizza",
+    "content": "Large Pizza with Cheese & 1-Topping (special) $9.99. $1 internet delivery special.",
+    "price": "$9.99",
+    "url": "http://www.rosaspizzasd.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 32.81462,
+      "lon": -117.15373
+    },
+    "phone": "+1 858 278-1222"
+  },
+  {
+    "name": "Chow",
+    "content": "Serves Traditional American style food. Try their delicious breakfast made with fresh ingredients. They have reasonable prices, a casual atmosphere, good for kids and large groups, and good waiter service.",
+    "price": "$11-30",
+    "url": "http://www.chowfoodbar.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7672,
+      "lon": -122.4287
+    },
+    "phone": "+1 415 552-2469"
+  },
+  {
+    "name": "Hahn's Hibachi",
+    "content": "The place to go for cheap, fast, and tasty food. Choose from the grilled chicken, mountain of meat, or saute chicken.",
+    "price": "$8.50-15",
+    "url": "http://www.hahnshibachi.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7511,
+      "lon": -122.4339
+    },
+    "phone": "+1 415 642-8151"
+  },
+  {
+    "name": "Kasa Indian Eatery",
+    "content": "Indian food in a casual setting emphasizing from-scratch cooking with fresh ingredients.",
+    "price": "$5-12",
+    "url": "http://kasaindian.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7609,
+      "lon": -122.433
+    },
+    "phone": "+1 415 621-6940"
+  },
+  {
+    "name": "Hong Kong Clay Pot Restaurant",
+    "content": "Formerly “Hong Kong Dim Sum,” this restaurant serves great dim sum and traditional noodle dishes and is frequented by Chinatown locals.",
+    "price": "$5-$8",
+    "url": "http://www.hongkongclaypotrestaurant.webs.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7959,
+      "lon": -122.4065
+    },
+    "phone": "+1 415 989-2638"
+  },
+  {
+    "name": "Taqueria Zorro",
+    "content": "Excellent little budget taqueria with good quality food at a very reasonable price.  It's clean, the portions are generous and the service is excellent. They can sometimes put together a large burrito in less than a minute from time of order to time of eating. Juke box and large screen TV in the back.",
+    "price": "$6-$10",
+    "url": "http://www.taqueriazorro.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7981,
+      "lon": -122.4067
+    },
+    "phone": "+1 415 392-9677"
+  },
+  {
+    "name": "BurgerMeister",
+    "content": "Excellent and varied selection of burgers at a reasonable price. Inside it has typical retro American-diner decor and the service is fast and friendly.  This place is very popular and was voted &quot;Best Burger 2007&quot; in San Francisco by the readers of SF Weekly.",
+    "price": "$10-$12",
+    "url": "http://www.burgermeistersf.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.8016,
+      "lon": -122.4123
+    },
+    "phone": "+1 415 296-9907"
+  },
+  {
+    "name": "Pat's Cafe",
+    "content": "Charming little cafe serving traditional American fare, with friendly staff and very reasonable prices.",
+    "price": "$5-$10",
+    "url": "http://www.patscafe.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.804,
+      "lon": -122.4148
+    },
+    "phone": "+1 415 776-8735"
+  },
+  {
+    "name": "Bocadillos",
+    "content": "Basque restaurant in North Beach, good champagne and rose wine selection. Menu favorites: Serrano ham, crab fritters. Tapas, small plates, moderately priced. Modern decor with windows onto Washington Street. Bubble Lounge is next door, also specializing in huge champagne collection. Gets very well-dressed crowd in after work and later evening. No line (yet) and serves parties up to 10, but small space.",
+    "price": "Entrees $9-$15",
+    "url": "http://www.bocasf.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7958,
+      "lon": -122.4032
+    },
+    "phone": "+1 415 982-2622"
+  },
+  {
+    "name": "Calzone's Pizza Cucina",
+    "content": "You can't miss this restaurant &mdash; it's the one with the large awning and all the curbside tables that overlook Columbus Street. They make great fresh mojitos here and the pizza is pretty good too.",
+    "price": "$13-$20",
+    "url": "http://www.calzonesf.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7991,
+      "lon": -122.4082
+    },
+    "phone": "+1 415 397-3600"
+  },
+  {
+    "name": "Fog City Diner",
+    "content": "Looking like a long shiny aluminum trailer from the outside, the famous Fog City Diner (it's the one from the old Visa ad) serves high-end all-American food. As it's so close to Fisherman’s Wharf, it is popular with both tourists and locals.",
+    "price": "$10-$20",
+    "url": "http://www.fogcitydiner.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.8034,
+      "lon": -122.4018
+    },
+    "phone": "+1 415 982-2000"
+  },
+  {
+    "name": "House of Nanking",
+    "content": "The most famous Chinese restaurant in San Francisco and justifiably so. Let the waiter order for you. The Moo Shu Pork is sublime.",
+    "price": "$6-$12",
+    "url": "http://houseofnanking.net/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7964,
+      "lon": -122.4054
+    },
+    "phone": "+1 415 421-1429"
+  },
+  {
+    "name": "L'Osteria del Forno",
+    "content": "No reservations.  A charming, crowded, locally known date restaurant, L'Osteria has a line out the door after 5PM, so arrive early.  The small semi-surly staff cooks up wonderful, affordably-priced dishes in the kitchen's one oven, so things can take a little while... specials on the menu: the roast pork, baked penne, and salmon carpaccio are favorites. Excellent Italian wine selection by the glass and bottle. Cannot seat more than 4 in a party.",
+    "price": "Entrees $10-$18",
+    "url": "http://www.losteriadelforno.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7997,
+      "lon": -122.4096
+    },
+    "phone": "+1 415 982-1124"
+  },
+  {
+    "name": "Mo's Gourmet Hamburgers",
+    "content": "American style diner that definitely has one of the best burgers in San Francisco. Mo's has a unique rotary-style grill in the front window to lure unsuspecting hungry people in. When you leave though, you will not be hungry &mdash; Mo's burgers are ''HUGE'', and are best complimented with a frosted cold glass of beer!",
+    "price": "Burgers, fries and a coke around $12",
+    "url": "http://www.mosgrill.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7992,
+      "lon": -122.4072
+    },
+    "phone": "+1 415 788-3779"
+  },
+  {
+    "name": "Mama's",
+    "content": "Unbelievably popular place with locals, you only need to see how long the lines are outside at breakfast to understand the popularity of Mama's &mdash; it has become a North Beach institution.  In 2007, it won Zagat's &quot;Best Breakfast in San Francisco.&quot;",
+    "price": "Breakfast and lunch go for about $9-$11",
+    "url": "http://mamas-sf.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.8015,
+      "lon": -122.4096
+    },
+    "phone": "+1 415 362-6421"
+  },
+  {
+    "name": "North Beach Pizza",
+    "content": "One of the best pizzas in the city, and right in the heart of North Beach.",
+    "price": "$8-$25",
+    "url": "http://www.northbeachpizza.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.8005,
+      "lon": -122.4074
+    },
+    "phone": "+1 415 433-2444"
+  },
+  {
+    "name": "Old Ship Saloon",
+    "content": "Great sandwiches in the reincarnation of an old saloon built atop the buried remains of a merchant ship that was blown ashore by a storm in 1849.",
+    "price": "$9-$14",
+    "url": "http://oldshipsaloon.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7978,
+      "lon": -122.4007
+    },
+    "phone": "+1 415 788-2222"
+  },
+  {
+    "name": "Empress Of China",
+    "content": "At eight stories high, this Chinese restaurant has excellent views to enjoy with your meal. The dining room is quite elegant and certainly ornate if a bit on the small side.  It attracts mostly a tourist crowd, which probably says something about the food!",
+    "price": "$20-$45",
+    "url": "http://empressofchinasf.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7948,
+      "lon": -122.4061
+    },
+    "phone": "+1 415 434-1345"
+  },
+  {
+    "name": "Jai Yun",
+    "content": "This quirky Chinese restaurant has a &quot;prix-fixe&quot; menu and reservations are required. It serves excellent ornate Shanghai style dishes with a &quot;no-fuss&quot; style table service.  By the way, there is no fixed menu &mdash; it changes based upon what the chef selects that day.",
+    "price": "$30-$150",
+    "url": "http://menuscan.com/jaiyun/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7947,
+      "lon": -122.4045
+    },
+    "phone": "+1 415 981-7438"
+  },
+  {
+    "name": "R & G Lounge",
+    "content": "An authentic upscale Cantonese Restaurant and Lounge. All types of seafood including Salt and Pepper Crab.",
+    "price": "Entrees $10-$35",
+    "url": "http://www.rnglounge.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7941,
+      "lon": -122.4049
+    },
+    "phone": "+1 415 982-7877"
+  },
+  {
+    "name": "The House",
+    "content": "Reservations recommended. The home of Asian fusion cuisine.  The dining space is tiny, but the possible ensuing wait is worth it. Don't miss the scallop-topped Caesar salad or the often-imitated seared Ahi tuna.",
+    "price": "$17-$30",
+    "url": "http://www.thehse.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7985,
+      "lon": -122.407
+    },
+    "phone": "+1 415 986-8612"
+  },
+  {
+    "name": "Caffe Sport",
+    "content": "Italian food meets hippie bus. Plates of pasta served family style. Some very nice seafood pastas. They may bring what you order, or perhaps what the chef thinks would go together better. They have house wine, served in water tumblers. Small, a little noisy, and a lot of fun. Opens special hours for World Cup faithful. Cash only.",
+    "price": "Entrees $15-$24",
+    "url": "http://caffesport.ypguides.net/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7997,
+      "lon": -122.4087
+    },
+    "phone": "+1 415 981-1251"
+  },
+  {
+    "name": "The Stinking Rose",
+    "content": "This is the place if you love garlic, and only if you really love garlic. The original in what has become a chain of garlic restaurants offering sumptuous, contemporary California-Italian cuisine prepared and adorned with garlic. Motto: &quot;We Season Our Garlic With Food!&quot; Be warned, people might be reluctant to be near you the next day.",
+    "price": "Entrees $19-$30",
+    "url": "http://www.thestinkingrose.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7982,
+      "lon": -122.4075
+    },
+    "phone": "+1 415 781-7673"
+  },
+  {
+    "name": "North Beach Restaurant",
+    "content": "Fine dining from the Tuscany region of Italy.  This restaurant has a lavish interior with cherry wood walls, high ceilings and Florentine tiled floors. There are four dining rooms in total and there is a cigar room and wine cellar in the basement.",
+    "price": "$30-$60",
+    "url": "http://www.northbeachrestaurant.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7998,
+      "lon": -122.4089
+    },
+    "phone": "+1 415 392-1700"
+  },
+  {
+    "name": "Fior D'Italia",
+    "content": "Set a few blocks back from the Wharf area, this is one of the nation's oldest Italian restaurants, and it has been open since 1886.  A favorite among locals and visitors alike, it serves authentic Northern Italian cuisine.",
+    "price": "Entrees from $16-$36",
+    "url": "http://www.fior.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.8042,
+      "lon": -122.4135
+    },
+    "phone": "+1 415 986-1886"
+  },
+  {
+    "name": "Ananda Fuara",
+    "content": "This vegetarian restaurant is a little different as it's run by an Indian religious order called 'Sri Chinmoy'. Ananda Fuara means the &quot;Fountain of Delight&quot; and their food is intended to harmonize you both inside and out.",
+    "price": "$6-$11",
+    "url": "http://www.anandafuara.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7779,
+      "lon": -122.4162
+    },
+    "phone": "+1 415 621-1994"
+  },
+  {
+    "name": "Bang San",
+    "content": "This tiny hole-in-the-wall serves up some of the best darn Thai food this side of the Mekong River. They have 12 categories of dishes from which to choose. Sit down, order, and watch as delicious food is cooked before your eyes.",
+    "price": "$5-$8",
+    "url": "http://www.bangsanthaicuisine.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7851,
+      "lon": -122.4175
+    },
+    "phone": "+1 415 928-2772"
+  },
+  {
+    "name": "Chutney",
+    "content": "Affordable and excellent selection of authentic Indian food. Speedy service and filling portions, and free Chai tea for all customers. A recent addition and a neighborhood favorite.",
+    "price": "$5-$8",
+    "url": "http://www.chutneysf.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.786,
+      "lon": -122.4132
+    },
+    "phone": "+1 415 931-5541"
+  },
+  {
+    "name": "Pakwan",
+    "content": "Pakistani food featuring curries, tandoori fish, and piping hot naan. Unlike some of the local eateries in the &quot;tandoor-loin,&quot; the seating is clean, comfortable, and fairly new (possibly the results of some other restaurant's going-out-of-business sale). The restaurant tends to be comparatively quiet, as well as offering an excellent view of police actions on Jones St.",
+    "price": "$6-$10",
+    "url": "http://www.pakwanrestaurant.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7856,
+      "lon": -122.4131
+    },
+    "phone": "+1 415 255-2440"
+  },
+  {
+    "name": "Shalimar",
+    "content": "Northern Indian/Pakistani food, they have a tandoor (clay oven) which means excellent ''naan'' (flat breads) and ''murgh boti'' (barbecue chicken). The curries and rice pilaf are also worth checking out for their unique combination of spices.",
+    "price": "$3-$10",
+    "url": "http://www.shalimarsf.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7862,
+      "lon": -122.4129
+    },
+    "phone": "+1 415 928-0333"
+  },
+  {
+    "name": "Tommy's Joynt",
+    "content": "Open since 1947, Tommy's is a classic San Francisco eatery and bar.  You can't miss this place &mdash; on both the inside and out it's colorful and quirkily decorated.  They serve wholesome, filling food like &quot;hand-carved&quot; sandwiches, stews, and mash potatoes.",
+    "price": "$4-$10",
+    "url": "http://www.tommysjoynt.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7855,
+      "lon": -122.4217
+    },
+    "phone": "+1 415 775-4216"
+  },
+  {
+    "name": "Bodega Bistro",
+    "content": "In Vietnamese ''Bo''-''de''-''ga'' in Vietnamese means ''beef''-''lamb''-''chicken'' &mdash; all popular Vietnamese dishes.  The menu also draws equal inspiration from French cuisine making this an unusual dining experience.",
+    "price": "$8-$23",
+    "url": "http://www.bodegabistrosf.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7835,
+      "lon": -122.4178
+    },
+    "phone": "+1 415 921-1218"
+  },
+  {
+    "name": "Kyoto Sushi",
+    "content": "With the multitude of sushi places it is hard to say which is best, but this one rates at the top for taste, freshness, and authenticity.",
+    "price": "$11-$23",
+    "url": "http://www.kyotosushi-sf.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7872,
+      "lon": -122.422
+    },
+    "phone": "+1 415 351-1234"
+  },
+  {
+    "name": "Canto do Brazil",
+    "content": "Traditional Brazilian food, very affordable, but mixed reviews on service.",
+    "price": "Dinner: $14-$21",
+    "url": "http://www.cantodobrazilrestaurant.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7749,
+      "lon": -122.4211
+    },
+    "phone": "+1 415 626-8727"
+  },
+  {
+    "name": "Fleur De Lys",
+    "content": "This windowless Michelin Star restaurant is one of the finest formal French restaurants in the US and it frequently wins awards.  The service is excellent and the food exceptional. They have a &quot;prix-fixe&quot; menu and over 700 wines to choose from.",
+    "price": "$72-$170",
+    "url": "http://www.hubertkeller.com/restaurants/fleur-de-lys.html",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7884,
+      "lon": -122.4131
+    },
+    "phone": "+1 415 673-7779"
+  },
+  {
+    "name": "Grand Cafe",
+    "content": "With 30-foot high ceilings supported by pillars, sunken tables, sculptures, and artwork adorning the walls, it's not hard to see that this place was once an elegant ballroom. Today it's an elegant dining room where they serve excellent French cuisine.",
+    "price": "$30-$100",
+    "url": "http://www.grandcafe-sf.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7868,
+      "lon": -122.4117
+    },
+    "phone": "+1 415 292-0101"
+  },
+  {
+    "name": "Jardiniere",
+    "content": "French food in American style, quite pricey, great decor, appetizers, deserts, mixed reviews on entrees.  They have both an &quot;à la carte&quot; and a &quot;prix-fixe&quot; menu.",
+    "price": "$50-$150",
+    "url": "http://www.jardiniere.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7781,
+      "lon": -122.4217
+    },
+    "phone": "+1 415 861-5555"
+  },
+  {
+    "name": "Market Street Grill",
+    "content": "Serves up Asian and Italian inspired dishes using fresh American ingredients in an ornately decorated dining room.  They also have live piano playing most nights of the week.",
+    "price": "$18-$40",
+    "url": "http://www.marketstreetgrillsf.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.778,
+      "lon": -122.4149
+    },
+    "phone": "+1 415 487-4414"
+  },
+  {
+    "name": "Max's Opera Cafe",
+    "content": "The California version of a New York deli.",
+    "price": "Dinner $15-$25",
+    "url": "http://www.maxsworld.com",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7812,
+      "lon": -122.4208
+    },
+    "phone": "+1 415 771-7300"
+  },
+  {
+    "name": "Millennium Restaurant",
+    "content": "This is an environmentally friendly vegetarian/vegan restaurant that does its best to source local, organic and non-genetically modified food.  If you're one of those people who think veggies can't be tasty... you need to go here, the food is delicious &mdash; very pricey &mdash; but delicious!",
+    "price": "$30-$75",
+    "url": "http://www.millenniumrestaurant.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7869,
+      "lon": -122.413
+    },
+    "phone": "+1 415 345-3900"
+  },
+  {
+    "name": "Bistro Boudin",
+    "content": "Home of the sourdough bread with a recipe they've nurtured since 1849, where you can get (among other things) their popular clam chowder in a bread bowl. This is the flagship location of Boudin, where you can shop for gifts here or stroll around their museum to learn about Boudin's history.",
+    "price": "$15-$30",
+    "url": "http://www.boudinbakery.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.8086,
+      "lon": -122.4146
+    },
+    "phone": "+1 415 928-1849"
+  },
+  {
+    "name": "Boudin Cafe",
+    "content": "A cafe where you can get Boudin food on Pier 39.",
+    "price": "$5-$7",
+    "url": "http://www.boudinbakery.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.809,
+      "lon": -122.4099
+    },
+    "phone": "+1 415 421-0185"
+  },
+  {
+    "name": "Chowders",
+    "content": "Serving fresh seafood cocktails, clam chowder in a bread bowl, fish and chips, sandwiches, and salads. They also have a small &quot;Not so Fishy... &quot; menu for those who don't like seafood.",
+    "price": "$5-$11",
+    "url": "http://www.chowderspier39.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.8091,
+      "lon": -122.4103
+    },
+    "phone": "+1 415 391-4737"
+  },
+  {
+    "name": "Cafe Pescatore",
+    "content": "A mid-range Italian trattoria that focuses on the staples of Italian food like pasta, pizza, and risottos.  It being Fisherman's Wharf, they do have a particular focus on seafood however.",
+    "price": "$14-$25",
+    "url": "http://www.cafepescatore.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.8063,
+      "lon": -122.414
+    },
+    "phone": "+1 415 561-1111"
+  },
+  {
+    "name": "Cioppino's",
+    "content": "Family dining with indoor and outdoor seating. Cioppino is a flavorful San Franciscan seafood soup.",
+    "price": "$14-$27",
+    "url": "http://www.cioppinosf.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.808,
+      "lon": -122.4193
+    },
+    "phone": "+1 415 775-9311"
+  },
+  {
+    "name": "Eagle Cafe",
+    "content": "One of the more reasonably priced places to eat on the Wharf. Traditional fare served. Pancakes are a favorite.",
+    "price": "$7-$30",
+    "url": "http://www.eaglecafe.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.8088,
+      "lon": -122.4104
+    },
+    "phone": "+1 415 433-3689"
+  },
+  {
+    "name": "McCormick and Kuleto's Seafood Restaurant",
+    "content": "A good seafood restaurant that also serves other fare such as pastas and steaks. The restaurant is perched atop Ghirardelli Square and has magnificent views of the bay, as well as a spacious and airy feel inside.",
+    "price": "$11 and up",
+    "url": "http://www.mccormickandschmicks.com/index.cfm?fuseaction=content.display&pageid=96&id=16",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.8062,
+      "lon": -122.4228
+    },
+    "phone": "+1 415 929-1730"
+  },
+  {
+    "name": "Pier Market",
+    "content": "Pier Market is a real market and restaurant at Pier 39.  It's definitely one of the better seafood options on the Wharf; the fish always seems to be fresh, the service is fast and friendly, and the prices are pretty low given the quality.",
+    "price": "$10-$33",
+    "url": "http://www.piermarket.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.8099,
+      "lon": -122.4106
+    },
+    "phone": "+1 415 989-7437"
+  },
+  {
+    "name": "Pompei's Grotto",
+    "content": "Much quieter, less expensive, and less touristy than the big name Fisherman's Wharf restaurants; excellent food, with an emphasis on seafood and Italian specialties, served by nice people. Still owned and managed by the Pompei family, who started the restaurant in 1946. For those not interested in seafood, they offer two steaks and four chicken dishes, as well as three meatless pasta dishes and a meatless risotto.",
+    "price": "$9-$30",
+    "url": "http://www.pompeisgrotto.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.8081,
+      "lon": -122.4181
+    },
+    "phone": "+1 415 776-9265"
+  },
+  {
+    "name": "Rainforest Cafe",
+    "content": "A jungle-themed restaurant with a wide variety of fare from chicken, seafood, pasta, pizza, and beef. Popular with young children.",
+    "price": "$5-$24",
+    "url": "http://www.rainforestcafe.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.8082,
+      "lon": -122.4146
+    },
+    "phone": "+1 415 440-5610"
+  },
+  {
+    "name": "Sea Lion Cafe",
+    "content": "Good restaurant if you're with kids; it serves fish & chips, fresh seafood entrées, cafe sandwiches, salads, and pasta dishes while watching the sea lions (but expect to pay a &quot;San Francisco Minimum Wage Surcharge&quot; with every meal).",
+    "price": "$9-$30",
+    "url": "http://www.pier39restaurants.com/bay_view.htm",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.8109,
+      "lon": -122.4111
+    },
+    "phone": "+1 415 434-2260"
+  },
+  {
+    "name": "Alioto's",
+    "content": "Established in 1925 by the Alioto family, it plates Sicilian recipes incorporating the local, fresh seafood.",
+    "price": "$22-$48",
+    "url": "http://www.aliotos.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.8087,
+      "lon": -122.4161
+    },
+    "phone": "+1 415 673-0183"
+  },
+  {
+    "name": "Castagnola's",
+    "content": "Voted San Francisco’s No. 1 Seafood and Family Restaurant of 1998 by The National Academy of Restaurant Evaluation and The Best of San Francisco Pocket Guide. They specialize in seafood and Italian cuisine, complimented by quality Californian wines.",
+    "price": "$20 and up",
+    "url": "http://www.castagnolas.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.8082,
+      "lon": -122.4175
+    },
+    "phone": "+1 415 776-5015"
+  },
+  {
+    "name": "Crab House",
+    "content": "Voted &quot;Best Crab in San Francisco&quot; and famous for it's &quot;Killer Crab&quot; &mdash;  2 pounds of Dungeness Crab! Comes with great views of the Golden Gate Bridge.",
+    "price": "$18-$60",
+    "url": "http://www.crabhouse39.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.8094,
+      "lon": -122.4103
+    },
+    "phone": "+1 415 434-2722"
+  },
+  {
+    "name": "Forbes Island",
+    "content": "Fancy a bit of an adventure for your next dining experience?  Well, how about dining on a floating island?  Forbes Island is a floating wooden island (100 foot by 50 foot) complete with a lighthouse, waterfall, and real palm trees.  It was built in 1975 and was originally intended to be a floating home... the creator was inspired by the novel ''&quot;Twenty Thousand Leagues Under the Sea.&quot;''  The dining room is partially under water and portholes give you an underwater view from your table. It's moored about 100 yards from the sea lions at Pier 39 and a pontoon ride will have to take you there and back... so don't drink too much!  The cuisine is French.",
+    "price": "$30-$45",
+    "url": "http://www.forbesisland.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.8106,
+      "lon": -122.4124
+    },
+    "phone": "+1 415 951-4900"
+  },
+  {
+    "name": "Nicks Lighthouse",
+    "content": "Warm and aromatic Italian restaurant serving popular family fare.",
+    "price": "$12-$37",
+    "url": "http://www.nickslighthouse.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.8085,
+      "lon": -122.4161
+    },
+    "phone": "+1 415 020-1300"
+  },
+  {
+    "name": "No. 9 Fisherman's Grotto",
+    "content": "On the side of the plaza, this restaurant is an old favorite. The small ground floor room has a warm Venetian inspired ambiance; the upstairs is larger and more modern. Its windows overlook the fishing boats.",
+    "price": "$14-$49",
+    "url": "http://www.fishermensgrotto.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.809,
+      "lon": -122.4161
+    },
+    "phone": "+1 415 673-7025"
+  },
+  {
+    "name": "Sabella and LaTorre",
+    "content": "A family owned restaurant that's been open since 1927 providing fresh seafood, family fare, and a full bar. They're known in particular for their &quot;cracked crab&quot;.",
+    "price": "$11-$37.50",
+    "url": "http://www.bestofsanfrancisco.net/sabellalatorre.htm",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.8084,
+      "lon": -122.416
+    },
+    "phone": "+1 415 673-2824"
+  },
+  {
+    "name": "Scoma's Restaurant",
+    "content": "Overlooking the bay and Alcatraz, and nestled among the fishing boats on Pier 47, this restaurant is popular among locals and tourists alike for its fresh seafood.",
+    "price": "$20 and up",
+    "url": "http://www.scomas.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.8089,
+      "lon": -122.4181
+    },
+    "phone": "+1 415 771-4383"
+  },
+  {
+    "name": "Ace Wasabi's Rock-N-Roll Sushi",
+    "content": "This sushi place is popular with the locals, offering good sushi with a rock and roll theme.  Quirky and a bit of fun.",
+    "price": "$5-$14.50",
+    "url": "http://acewasabisf.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.8001,
+      "lon": -122.438
+    },
+    "phone": "+1 415 567-4903"
+  },
+  {
+    "name": "Barney's Gourmet Hamburgers",
+    "content": "Great gourmet burgers here at a very affordable price.  They have a great selection of burgers including some interesting vegetarian options like &quot;tofu burgers,&quot; and fyi, all their burgers can be wrapped in lettuce instead of a bun... give it a try!  They also serve salads and sandwiches.",
+    "price": "$8-$12",
+    "url": "http://www.barneyshamburgers.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.8003,
+      "lon": -122.4377
+    },
+    "phone": "+1 415 563-0307"
+  },
+  {
+    "name": "The Grove Fillmore",
+    "content": "This cafe style restaurant has got a wholesome Californian menu with staples like salads, bagels, sandwiches, cheese plates, etc.  They also do a very affordable breakfast where you can get options like &quot;Huevos Rancheros&quot; and &quot;Country baked eggs&quot; for under 10 bucks.",
+    "price": "$7-$12",
+    "url": "http://www.thegrovesf.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7883,
+      "lon": -122.4335
+    },
+    "phone": "+1 415 474-1419"
+  },
+  {
+    "name": "Home Plate",
+    "content": "Wonderful breakfast/brunch place on Lombard St. Its always busy on weekends and it can feel a tad cramped but the food is worth it &mdash; delicious homemade scones with homemade jam and preserves, omelettes, pancakes/waffles, and eggs benedict.  This is certainly one of the best breakfast places in the city!",
+    "price": "$5-$10",
+    "url": "http://www.homeplatesf.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7997,
+      "lon": -122.4389
+    },
+    "phone": "+1 415 922-4663"
+  },
+  {
+    "name": "Pluto's Fresh Food for a Hungry Universe",
+    "content": "Fun American restaurant that’s part of a chain.  It's mostly green salads and sandwiches here &mdash; custom made to your discerning specifications!",
+    "price": "$7-$12",
+    "url": "http://www.plutosfreshfood.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.8,
+      "lon": -122.441
+    },
+    "phone": "+1 415 775-8867"
+  },
+  {
+    "name": "Alegrias",
+    "content": "Alegrias is a colorful, friendly, and romantic little Tapas bar in the Marina.  Like many other Tapas bars, it's a great place to go if you want to sample many flavors and tastes from small plates.  If you're still hungry after that, they have a more substantial main menu with plates like grilled lamb, paellas, and stewed rabbit.",
+    "price": "$8-$23",
+    "url": "http://alegriassf.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.8002,
+      "lon": -122.4348
+    },
+    "phone": "+1 415 929-8888"
+  },
+  {
+    "name": "Bistro Aix",
+    "content": "A great dating restaurant with intimate, comfortable seating, and a romantic decor.  They use fresh seasonal, local ingredients in their dishes.",
+    "price": "$14-$22",
+    "url": "http://www.bistroaix.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.8002,
+      "lon": -122.4376
+    },
+    "phone": "+1 415 202-0100"
+  },
+  {
+    "name": "Circa",
+    "content": "This lively Marina lounge turned restaurant has a relaxed casual atmosphere and serves traditional American fare.  They have a good selection of smaller more adventurous plates to get you started like &quot;lobster and white truffle mac-n-cheese&quot; and &quot;angus sliders black truffle and brie.&quot;",
+    "price": "$20-$30",
+    "url": "http://www.circasf.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.8007,
+      "lon": -122.4364
+    },
+    "phone": "+1 415 351-0175"
+  },
+  {
+    "name": "Dragon Well Restaurant",
+    "content": "Light but satisfying modern Chinese food &mdash; not your typical oily dishes here!",
+    "price": "$11-$14",
+    "url": "http://www.dragonwell.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.8007,
+      "lon": -122.4386
+    },
+    "phone": "+1 415 474-6888"
+  },
+  {
+    "name": "Greens Restaurant",
+    "content": "Located in Fort Mason, Greens organic vegetarian restaurant is a firm favorite among veggies and the health conscious. They have fresh, tasty international food that appeases all appetites (except for carnivorous ones of course!).  Over the years it has become a bit of a local institution as its views over the water are hard to beat.",
+    "price": "$16-$23",
+    "url": "http://www.greensrestaurant.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.8067,
+      "lon": -122.4322
+    },
+    "phone": "+1 415 771-6222"
+  },
+  {
+    "name": "La Mediterranee",
+    "content": "Serving up affordable Middle Eastern classics like quiche, hummos, pita bread, and kebabs.",
+    "price": "$10-$15",
+    "url": "http://www.cafelamed.com/fillmore_new/LaMed_Fillmore-home.html",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7901,
+      "lon": -122.4338
+    },
+    "phone": "+1 415 921-2956"
+  },
+  {
+    "name": "Pacific Catch",
+    "content": "There isn't much seating in this place, but that doesn't seem to matter for the patrons that come here to taste Asian/Pacific cuisine. The tuna bowl comes highly recommended.",
+    "price": "$11-$15",
+    "url": "http://www.pacificcatch.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.8006,
+      "lon": -122.4367
+    },
+    "phone": "+1 415 440-1950"
+  },
+  {
+    "name": "A16",
+    "content": "This is part wine bar part restaurant; they serve simple Italian favorites (pizza, pastas, salumi) from the Campania region of Italy.  They also have traditional wood-burning ovens to perfect your pizza.",
+    "price": "$15-$30",
+    "url": "http://www.a16sf.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7999,
+      "lon": -122.4422
+    },
+    "phone": "+1 415 771-2216"
+  },
+  {
+    "name": "Betelnut Pejiu Wu",
+    "content": "&quot;Pejiu Wu&quot; means side street beer house. Along with oversized mugs of Asian beer you will find Pan-Asian authentic regional dishes. The food here tends to be quite hot. With its authentic style cuisine, it has become a Cow Hollow establishment. Look out for the long lines though and the staff can sometimes be a bit unfriendly.",
+    "price": "$22-$55",
+    "url": "http://www.betelnutrestaurant.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7976,
+      "lon": -122.4327
+    },
+    "phone": "+1 415 929-8855"
+  },
+  {
+    "name": "Boboquivari's",
+    "content": "Popular steakhouse in the Marina, Bobo's is a &quot;surf-n-turfers&quot; dream.  The menu boasts excellent steaks (porterhouse, fillet mignon, New York bone-in) combined with mussels, shrimp, lobster, and Dungeness crab... yummy!  Bobo's is a colorful, if upscale restaurant, that is very popular and almost always busy.",
+    "price": "$30-$65",
+    "url": "http://www.boboquivaris.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.8014,
+      "lon": -122.4257
+    },
+    "phone": "+1 415 441-8880"
+  },
+  {
+    "name": "Brazen Head",
+    "content": "Serving wholesome American cuisine including their signature dish &quot;Certified Angus Beef NY Pepper Steak&quot; &mdash; this restaurant is a very well kept local secret.",
+    "price": "$18-$30",
+    "url": "http://www.brazenheadsf.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7992,
+      "lon": -122.4324
+    },
+    "phone": "+1 415 921-7600"
+  },
+  {
+    "name": "Capannina",
+    "content": "A new Italian restaurant that focuses on the familiar and tempting classics of Italian cuisine.  They have a &quot;prix-fixe&quot; as well as an &quot;à la carte&quot; menu.",
+    "price": "$25-$75",
+    "url": "http://www.capanninasf.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7978,
+      "lon": -122.4292
+    },
+    "phone": "+1 415 409-8001"
+  },
+  {
+    "name": "Eastside West Restaurant and Raw Bar",
+    "content": "They have excellent seafood here &mdash; shrimp, mussels, crabs, lobsters, and oysters. It's perfect for appetizers and drinks on a weekend afternoon; or how about their happy hour M-F 4PM-7PM, with $1 oysters and $2 draft beers... ''the perfect combination!''",
+    "price": "$14-$40",
+    "url": "http://www.eastsidewestsf.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7987,
+      "lon": -122.4356
+    },
+    "phone": "+1 415 885-4000"
+  },
+  {
+    "name": "Isa",
+    "content": "Comfortable environment with an innovative fusion menu made up of small plates that blend French style with Asian flavors. Owner Luke Sung is one of San Francisco's most celebrated young chefs.",
+    "price": "$10-$30",
+    "url": "http://www.isarestaurant.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.8001,
+      "lon": -122.4376
+    },
+    "phone": "+1 415 567-9588"
+  },
+  {
+    "name": "Izzy's Steaks & Chops",
+    "content": "Classic steak restaurant with wood floors, saw dust, comfortable booths, steak sauces, and the requisite cowboy hat to boot! Their pricing is affordable and their steaks big and tasty.",
+    "price": "$17-$37",
+    "url": "http://Izzyssteaksandchops.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.8002,
+      "lon": -122.4381
+    },
+    "phone": "+1 415 563-0487"
+  },
+  {
+    "name": "Jackson Fillmore Trattoria",
+    "content": "This 3 star trattoria serves up old-style southern Italian food and wine from the region.  The food is excellent and affordable (given the quality) and the place is usually crowded as a result.",
+    "price": "$25-$45",
+    "url": "http://jacksonfillmoresf.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7927,
+      "lon": -122.4344
+    },
+    "phone": "+1 415 346-5288"
+  },
+  {
+    "name": "Liverpool Lil's",
+    "content": "This restaurant was established in 1973 and has a good atmosphere, and also fantastic views over the Presidio from the curbside tables.  They serve good burgers/sandwiches and traditional American food.",
+    "price": "$13-$30",
+    "url": "http://www.liverpoollils.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7982,
+      "lon": -122.447
+    },
+    "phone": "+1 415 921-6664"
+  },
+  {
+    "name": "Perry’s",
+    "content": "Over 40 years old, this restaurant is another Cow Hollow tradition. It is known for its classic American cuisine.",
+    "price": "$17-$30",
+    "url": "http://www.perryssf.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7978,
+      "lon": -122.4312
+    },
+    "phone": "+1 415 922-9022"
+  },
+  {
+    "name": "Presidio Social Club",
+    "content": "Serving traditional American and international cuisine like fish and chips, Kobe beef, and liver and onions.  They have a large outdoor veranda that is an excellent place to dine... weather permitting!  There is also a lively bar on the premises if you fancy a few stiff drinks.",
+    "price": "$18-$27",
+    "url": "http://www.presidiosocialclub.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7973,
+      "lon": -122.4484
+    },
+    "phone": "+1 415 885-1888"
+  },
+  {
+    "name": "Rose’s Café",
+    "content": "Features Italian and Californian fare created using fresh organic and local produce; this is certainly a restaurant for the more environmentally conscious. It's a very romantic spot and a favorite among locals.",
+    "price": "$16-$30",
+    "url": "http://www.rosescafesf.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.797,
+      "lon": -122.437
+    },
+    "phone": "+1 415 775-2200"
+  },
+  {
+    "name": "Metro Caffe",
+    "content": "Burgers and cheesesteaks.",
+    "price": "$6-$7",
+    "url": "http://www.metrocaffe.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7718,
+      "lon": -122.4306
+    },
+    "phone": "+1 415 621-9536"
+  },
+  {
+    "name": "Axum Cafe",
+    "content": "This Ethiopian restaurant is very affordable. Try the vegetarian sampler. If you are hungry, order for two. Wash it down with an Ethiopian beer (2 kinds).",
+    "price": "$7-$14",
+    "url": "http://www.axumcafe.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7719,
+      "lon": -122.4336
+    },
+    "phone": "+1 415 252-7912"
+  },
+  {
+    "name": "Cha-Cha-Cha",
+    "content": "Popular Cuban tapas place. Good sangria. Typical wait is 1–2 hours on weekends, and they don't take reservations. Great bar, always crowded with a fun 'artsy' crowd. Be warned, the sangria packs a punch!",
+    "price": "$7-$15",
+    "url": "http://www.cha3.com",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7692,
+      "lon": -122.452
+    },
+    "phone": "+1 415 386-7670"
+  },
+  {
+    "name": "The Grind",
+    "content": "Coffee shop with breakfast, lunch, and an amazing array of desserts, pastries, and munchies. Indoor and patio seating.",
+    "price": "$6-$10",
+    "url": "http://www.thegrindcafe.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7714,
+      "lon": -122.435
+    },
+    "phone": "+1 415 864-0955"
+  },
+  {
+    "name": "Indian Oven",
+    "content": "This Indian restaurant is on the expensive side, although it is pretty good. Expect a wait any day of the week.",
+    "price": "$8-$19",
+    "url": "http://indianovensf.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7717,
+      "lon": -122.4305
+    },
+    "phone": "+1 415 626-1628"
+  },
+  {
+    "name": "Memphis Minnie's",
+    "content": "Great southern-style barbecue and (oddly enough) sake.  Amazing mac-n-cheese.",
+    "price": "$8-$14",
+    "url": "http://www.memphisminnies.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7721,
+      "lon": -122.4317
+    },
+    "phone": "+1 415 864-7675"
+  },
+  {
+    "name": "Squat & Gobble",
+    "content": "Cafe and crepery, part of a small San Francisco chain. Popular for breakfast and lunch, crowded on weekends. Outdoor dining on the back patio when the weather is nice. The side potatoes are a favorite.",
+    "price": "$6–$10",
+    "url": "http://www.squatandgobble.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7718,
+      "lon": -122.4306
+    },
+    "phone": "+1 415 487-0551"
+  },
+  {
+    "name": "Squat & Gobble",
+    "content": "This is the chain's other Haight location.",
+    "price": "$6–$10",
+    "url": "http://www.squatandgobble.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7703,
+      "lon": -122.4459
+    },
+    "phone": "+1 415 864-8484"
+  },
+  {
+    "name": "Thep Phenom",
+    "content": "Sometimes called the best Thai in San Francisco; call ahead as this restaurant can be very busy. Or walk in with a small party and have a Singha in the back while you wait to be seated at a family-style table.",
+    "price": "$8-$15",
+    "url": "http://www.thepphanom.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7713,
+      "lon": -122.4305
+    },
+    "phone": "+1 415 431-2526"
+  },
+  {
+    "name": "Big 4 Restaurant",
+    "content": "In the Huntington Hotel.",
+    "price": "$13-$35",
+    "url": "http://www.big4restaurant.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7915,
+      "lon": -122.4122
+    },
+    "phone": "+1 415 771-1140"
+  },
+  {
+    "name": "Ristorante Milano",
+    "content": "Pleasant Italian restaurant.",
+    "price": "$9-$23",
+    "url": "http://www.milanosf.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7955,
+      "lon": -122.419
+    },
+    "phone": "+1 415 673-2961"
+  },
+  {
+    "name": "Za Gourmet Pizza",
+    "content": "A good, cheap pizza-by-the-slice restaurant that is open relatively late.",
+    "price": "$5-$10",
+    "url": "http://zapizzasf.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7985,
+      "lon": -122.4191
+    },
+    "phone": "+1 415 771-3100"
+  },
+  {
+    "name": "Dottie's True Blue Cafe",
+    "content": "Top-rated breakfast cafe and a top contender in San Francisco proper. Affordable food with friendly service; comfortable, intimate atmosphere, and excellent food. Arrive early to stand in line with all the other admirers.",
+    "price": "$3-$12",
+    "url": "http://dotties.biz/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7817,
+      "lon": -122.41
+    },
+    "phone": "+1 415 885-2767"
+  },
+  {
+    "name": "Goat Hill Pizza",
+    "content": "Great family pizza place.",
+    "price": "$14-$26",
+    "url": "http://www.goathill.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7624,
+      "lon": -122.3977
+    },
+    "phone": "+1 415 641-1440"
+  },
+  {
+    "name": "Art's Cafe",
+    "content": "Tiny traditional diner with some Korean specials.",
+    "price": "$4-$7",
+    "url": "http://www.artscafesf.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7639,
+      "lon": -122.4659
+    },
+    "phone": "+1 415 665-7440"
+  },
+  {
+    "name": "Sunrise Deli and Cafe",
+    "content": "Awesome falafel.",
+    "price": "$6-$10",
+    "url": "http://www.sunrisedeli.net/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7632,
+      "lon": -122.4807
+    },
+    "phone": "+1 415 664-8210"
+  },
+  {
+    "name": "Ebisu",
+    "content": "Often cited as the best sushi on the West Coast of the United States.",
+    "price": "$10-$16",
+    "url": "http://www.ebisusushi.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7645,
+      "lon": -122.4666
+    },
+    "phone": "+1 415 566-1770"
+  },
+  {
+    "name": "Mandalay Restaurant",
+    "content": "Burmese/Chinese, a friendly, local favorite.",
+    "price": "$9-$12",
+    "url": "http://www.mandalaysf.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7852,
+      "lon": -122.4643
+    },
+    "phone": "+1 415 386-3895"
+  },
+  {
+    "name": "New Eritrea",
+    "content": "Huge platters of Eritrean (Ethiopian) food are served up here, along with native beers and lots of Injera bread. Portions are not for the timid. The staff is very friendly. Don't miss the sauteed mushrooms.",
+    "price": "$7-$10",
+    "url": "http://www.neweritrearestaurant.blogspot.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7637,
+      "lon": -122.4677
+    },
+    "phone": "+1 415 681-1288"
+  },
+  {
+    "name": "Ton Kiang",
+    "content": "Arguably the best dim sum outside of Chinatown, this restaurant serves moderately priced Hakka cuisine, but make sure to go there between the hours of 10AM and 4PM where they serve a traditional dim sum with servers that walk around and proffer dishes and tea. Make sure to come early on the weekends, as many locals and tourists line up to have a dim sum lunch.",
+    "price": "$10-$24",
+    "url": "http://www.tonkiang.net",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7799,
+      "lon": -122.482
+    },
+    "phone": "+1 415 752-4440"
+  },
+  {
+    "name": "Aziza",
+    "content": "Unique Moroccan cuisine made with local organic ingredients. Reservations recommended.",
+    "price": "$15-$25",
+    "url": "http://www.aziza-sf.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7805,
+      "lon": -122.4817
+    },
+    "phone": "+1 415 752-2222"
+  },
+  {
+    "name": "Cliff House",
+    "content": "At the far end of the Outer Richmond, overlooking the ocean, with a great restaurant (Sutro's) and a more informal bistro. Ideal to watch a sunset or a fogbank over the Pacific Ocean. Reservations strongly recommended for Sutro's.",
+    "price": "$20-$40 (bistro: $15-$28)",
+    "url": "http://www.cliffhouse.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7784,
+      "lon": -122.514
+    },
+    "phone": "+1 415 386-3330"
+  },
+  {
+    "name": "Thanh Long",
+    "content": "Vietnamese restaurant featuring roasted crab. Dinner only.",
+    "price": "$10-$25",
+    "url": "http://www.anfamily.com/Restaurants/thanhlong_restaurant/displaypages/homepage.html",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 37.7602,
+      "lon": -122.5061
+    },
+    "phone": "+1 415 665-1146"
+  },
+  {
+    "name": "New Tsing Tao Restaurant",
+    "content": "A superb Chinese restaurant with large portions and good take-out service.",
+    "price": "$6-$12",
+    "url": "http://www.newtsingtaorestaurant.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7405,
+      "lon": -122.4655
+    },
+    "phone": "+1 415 566-9559"
+  },
+  {
+    "name": "Taipei Restaurant",
+    "content": "Very delicious Chinese restaurant, with healthy ingredients and no MSG; although it is more expensive than the standard Chinese fare.",
+    "price": "$5-$10",
+    "url": "http://www.taipeidining.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 37.7323,
+      "lon": -122.4743
+    },
+    "phone": "+1 415 753-3338"
+  },
+  {
+    "name": "First Crush",
+    "content": "If you like romantic restaurants and have also fallen in love with California, this is the place for you.  Popular with couples, this restaurant serves up modern Californian and American cuisine and they've got a ''HUGE'' selection of Cal wines to wash it down with.",
+    "price": "$20-$30",
+    "url": "http://www.firstcrush.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 37.7855,
+      "lon": -122.4089
+    },
+    "phone": "+1 415 982-7874"
+  },
+  {
+    "name": "Cold Spring Tavern",
+    "content": "Located off of Highway 154 near wine country, this historic tavern, restaurant and coach stop is a touch of Old West and a world away from glitzy Santa Barbara. Stop for lunch at this family-friendly historic tavern and restaurant that's also popular with the weekend biker crowd. The place serves up some of the best tri-tip sandwiches on Sundays, when outdoor live music from local bands usually on tap as well. Great location and great food. It also offers a fun atmosphere on weekend nights with live music.",
+    "price": "Dinner is more expensive, in the $17–29 range",
+    "url": "http://www.coldspringtavern.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 34.521391,
+      "lon": -119.840609
+    },
+    "phone": "+1 805 967-0066"
+  },
+  {
+    "name": "Restaurant Roy",
+    "content": "Good &quot;off State St.&quot; bar. Serves great food late at night, focus on local ingredients.",
+    "price": "Price fix menu with everything at around $25",
+    "url": "http://www.restaurantroy.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 34.421078,
+      "lon": -119.702113
+    },
+    "phone": "+1 805 966-5636"
+  },
+  {
+    "name": "Blue Plate",
+    "content": "Blue Plate is a small, cozy neighborhood eatery that serves great American comfort food. Located in the heart of Montana Avenue, Blue Plate is close to many hip boutiques and is a great rest stop after a day of shopping. An added plus: the menu is kid-friendly, offering healthy items for kids as well as organic baby food.  The turkey meatballs and mac 'n cheese are a must-try.",
+    "price": "Menu items range from $10-15",
+    "url": "http://blueplatesantamonica.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 34.03235,
+      "lon": -118.49502
+    },
+    "phone": "+1 310-260-8877"
+  },
+  {
+    "name": "Melisse",
+    "content": "Also featuring organic, locally grown produce and two tasting menus (including a vegetarian version), Melisse is Chef Josiah Citrin latest world class restaurant. The food is outstanding and gets the highest marks in Zagat and Michelin.",
+    "price": "$100 per person at a minimum",
+    "url": "http://www.melisse.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 34.02449,
+      "lon": -118.49141
+    },
+    "phone": "+1 310-395-0881"
+  },
+  {
+    "name": "Community Cafe",
+    "content": "A casual local cafe with indoor and outdoor seating. Fresh sandwiches and salads, house-made potato chips are super tasty. Unique local wines are sold, bubble tea, and fresh juices. A nice relaxed environment that's a bit more off the beaten path from the tourist filled square.",
+    "price": "$12 per person without alcohol",
+    "url": "http://www.communitycafesonoma.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 38.29341,
+      "lon": -122.47428
+    },
+    "phone": "+1 707 938-7779"
+  },
+  {
+    "name": "Sunflower Caffé",
+    "content": "Serving breakfast, lunch, and happy hour, Sunflower is popular with locals. It's been featured on &quot;Diners, Drive-In's and Dives,&quot; but it doesn't fit into any of those categories. Casual dining inside, but the highlight is the back patio. Delicious brunch, salads and sandwiches. Happy hour is served from 3-4PM with locals wines and beers. Free wifi.",
+    "price": "$11",
+    "url": "http://www.sonomasunflower.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 38.293475,
+      "lon": -122.458929
+    },
+    "phone": "+1 707-996-6645"
+  },
+  {
+    "name": "Basque Boulangerie Cafe",
+    "content": "Sonoma's favorite local bakery, the Boulangerie is a popular place for breakfast and lunch. Affordable fresh sandwiches, tasty coffee, and freshly baked bread and pastries. Try a cheesy breadstick. Grab a loaf of bread to nibble on with local cheese at the park. They back the bread in house - stop by around 8 PM for a hearty smell out back.",
+    "price": "$4-$9",
+    "url": "http://www.basqueboulangerie.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 38.292513,
+      "lon": -122.456163
+    },
+    "phone": "+1 707-935-7687"
+  },
+  {
+    "name": "Centre du Vin",
+    "content": "French-influenced bistro located on the ground floor of the Ledson Hotel. A nice patio for dining and people watching. A bar allows for wine tasting of Ledson's two wineries, and bottles of wine are affordable and tasty to order with your meal. Frites topped with blue cheese are a highlight here.",
+    "price": "$20 per person without alcohol",
+    "url": "http://www.ledsonhotel.com/centreduvin/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 38.2924,
+      "lon": -122.45666
+    },
+    "phone": "+1 707 996-9779"
+  },
+  {
+    "name": "Mary's Pizza Shack",
+    "content": "Mary's is locally owned and has locations throughout wine country. They serve traditional east coast style pasta in a family-friendly environment. They also have happy hour starting at 15:00.",
+    "price": "$15/person without alcohol",
+    "url": "http://www.maryspizzashack.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 38.29389,
+      "lon": -122.45781
+    },
+    "phone": "+1 707 938-8300"
+  },
+  {
+    "name": "The Red Grape",
+    "content": "Tasty Connecticut style pizza and an ever changing seasonal menu. A family friendly restaurant with indoor and outdoor seating, the Grape is known for being one of the best places to work in town - and it shows in the friendly service.",
+    "price": "$20",
+    "url": "http://theredgrape.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 38.291793,
+      "lon": -122.459234
+    },
+    "phone": "+1 707-996-4103"
+  },
+  {
+    "name": "Bangkok 9",
+    "content": "Only Thai restaurant in the City of Sonoma. Contemporary decor with all the classic Thai dishes. Friendly service and cool music to boot.",
+    "price": "$20",
+    "url": "http://www.bangkok9sonoma.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 38.291628,
+      "lon": -122.462465
+    },
+    "phone": "+1 707-938-8477"
+  },
+  {
+    "name": "Plaza Bistro",
+    "content": "Casual Italian-Mediterranean dining with a nice wine list. Nothing too fancy, but, go on Tuesdays when Claudia is working and get great service. The bar has happy hour specials each day of the week and on Friday's the backroom has some of the best live jazz in the Bay Area (seriously).",
+    "price": "$25",
+    "url": "http://www.theplazabistro.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 38.293151,
+      "lon": -122.456283
+    },
+    "phone": "+1 707-996-4466"
+  },
+  {
+    "name": "La Casa",
+    "content": "An &quot;American style&quot; Mexican restaurant, the service is great and the prices are too. Happy Hour is Mon-Fri and you can get margaritas and tacos for cheap. Chips and salsa are housemade and so popular the owner sells them throughout the state at grocery stores. Nice little patio out back that is great for lunch.",
+    "price": "$10-$15",
+    "url": "http://www.lacasarestaurant.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 38.293383,
+      "lon": -122.455849
+    },
+    "phone": "+1 707-996-3406"
+  },
+  {
+    "name": "Cafe La Haye",
+    "content": "Locally sourced produce, beef, chicken and seafood is prepared simply at this intimate restaurant.",
+    "price": "$30 per person without alcohol",
+    "url": "http://cafelahaye.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 38.29196,
+      "lon": -122.45595
+    },
+    "phone": "+1 707 935-5994"
+  },
+  {
+    "name": "Carneros Bistro & Wine Bar",
+    "content": "Located in a hotel, the menu designed by Chef Andrew makes this a popular place. It's the only Renaissance Hotel restaurant in the country that sustains itself without support from the hotel. Steaks, seafood, pasta and seasonal dishes with a great wine list available. The bar, where they serve a cheaper bar menu with wood-fired pizzas, is popular with locals and tourists alike. They also have an outdoor patio but the view isn't much to mention.",
+    "price": "$20-$40 per person without alcohol",
+    "url": "http://www.marriott.com/hotel-restaurants/sfols-the-lodge-at-sonoma-renaissance-resort-and-spa/carneros-bistro/118340/home-page.mi",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 38.27742,
+      "lon": -122.46047
+    },
+    "phone": "+1 707 931-2042"
+  },
+  {
+    "name": "El Dorado Kitchen",
+    "content": "Contemporary indoor and outdoor dining on Sonoma Plaza. Sharing a space with the El Dorado Hotel, EDK offers a formal dining area with shared & individual tables, a lounge, and a smaller casual cafe. Contemporary wine country food with locally sourced and seasonal items. They also make their own charcuterie. Can be a bit pretentious, and quite the place to see and be seen for the San Francisco set who visits for the weekends.",
+    "price": "Dinner: $30 without alcohol",
+    "url": "http://www.eldoradosonoma.com/restaurant",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 38.29359,
+      "lon": -122.45885
+    },
+    "phone": "+1 707 996-3030"
+  },
+  {
+    "name": "the girl & the fig",
+    "content": "Owned by celebrity chef Sondra Bernstein, the girl & the fig opened in 1997 and helped launched wine country cuisine. French country food in a casual but classy setting, they offer indoor and outdoor dining, and a French style zinc bar specializing in classic French cocktails with a twist and Rhone varietal wines. Reservations necessary.",
+    "price": "$7-25",
+    "url": "http://www.thegirlandthefig.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 38.29396,
+      "lon": -122.45889
+    },
+    "phone": "+1 707 938-3634"
+  },
+  {
+    "name": "Harvest Moon",
+    "content": "An intimate French-inspired restaurant with indoor and outdoor dining. They post their menu every day on their website and use fresh seasonal ingredients. A tiny open kitchen, with one chef and a cook, they also have their own pastry chef on site. A delightful, low key and romantic place.",
+    "price": "$25 per person without alcohol",
+    "url": "http://www.harvestmooncafesonoma.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 38.29288,
+      "lon": -122.45891
+    },
+    "phone": "+1 707 933-8160"
+  },
+  {
+    "name": "LaSalette Restaurant",
+    "content": "Portuguese restaurant owned by Azorean-born chef Manuel Azevedo. Authentic gourmet food with a classy decor that feels more like coastal Portugal than Sonoma. Popular in the evening, make a reservation. They serve lunch and dinner (and lots of port!).",
+    "price": "$30 and under per person, without wine",
+    "url": "http://www.lasalette-restaurant.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 38.29301,
+      "lon": -122.45599
+    },
+    "phone": "+1 707-938-1927"
+  },
+  {
+    "name": "Mamma Tanino's",
+    "content": "The best Italian food in town. The owner/chef is from Italy and he cooks each meal himself. Fast paced place with a real Italian feel, enjoy classics and hearty dishes with a small but nice Italian wine list. Amazing food.",
+    "price": "$20-$30",
+    "url": "http://www.mammataninos.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 38.294151,
+      "lon": -122.468615
+    },
+    "phone": "+1 707-933-8826"
+  },
+  {
+    "name": "Depot Hotel",
+    "content": "Housed in a former hotel dating back to the late 1800's, the Depot Hotel serves quality Italian food that has been family owned for decades. Don't let the rather uneventful interior fool you - make a reservation and sit out back where the hotel's historic pool provides a lovely atmosphere amongst the garden. Call ahead, it's a popular wedding spot.",
+    "price": "$25-35",
+    "url": "http://www.depotsonoma.com/index.html",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 38.296698,
+      "lon": -122.458341
+    },
+    "phone": "+1 707-938-2980"
+  },
+  {
+    "name": "Crisp Bakeshop",
+    "content": "Hip little bakery with a few tables out front for eating. You can grab pastries and baked goods for breakfast and handmade sandwiches for takeout during lunch time.",
+    "price": "$2-$10",
+    "url": "http://www.crispbakeshop.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 38.293566,
+      "lon": -122.472276
+    },
+    "phone": "+1 707-933-9999"
+  },
+  {
+    "name": "Sonoma's Best",
+    "content": "Wine country deli with fresh sandwiches, local cheeses and wine. You can take to go or eat there on their patio with a fire pit. The only place in town that serves Blue Bottle Coffee. Lady Gaga went here every morning for her coffee when she was in town in 2012.",
+    "price": "$5-$20",
+    "url": "http://sonomas-best.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 38.289873,
+      "lon": -122.435826
+    },
+    "phone": "+1 707-996-7600"
+  },
+  {
+    "name": "Los Tres Hermanos",
+    "content": "A local Mexican restaurant that mixes in some authentic food from Mexico. Most of the time the restaurant is busy during the week with most of the customers coming from the local businesses.",
+    "price": "$14",
+    "url": "http://www.lostreshermanos.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 34.207135,
+      "lon": -118.448732
+    },
+    "phone": "+1 818  780-9930"
+  },
+  {
+    "name": "The Firehouse",
+    "content": "Built in a retired firehouse, this restaurant/bar offers all manner of breakfasts, sandwiches, and other meals from a &quot;healthy&quot; and &quot;less healthy&quot; set of menu selections. Weight lifters from Venice Beach gorge themselves on egg whites, chicken breasts, broccoli and tofu, while the rest of the population has a variety of sandwiches and breakfast items to choose from. The ambiance is fun, the food is decent, and prices are reasonable.",
+    "price": "$7-$15",
+    "url": "http://www.firehousevenice.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 33.99628,
+      "lon": -118.47757
+    },
+    "phone": "+1 310 396-6810"
+  },
+  {
+    "name": "Brewbakers Brewing Company",
+    "content": "Brewbakers has a nice variety of in-house micro-brewed beers, as well as a good array of pub/grill food- burgers, pizzas, etc.",
+    "price": "$5-$22",
+    "url": "http://brewbakersbrewingco.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 36.3300495,
+      "lon": -119.290706
+    },
+    "phone": "+1 559-627-2739"
+  },
+  {
+    "name": "Sprinkles",
+    "content": "Featured on television shows like Good Morning America and the Oprah Winfrey Show, Sprinkles is the place in Los Angeles to get gourmet cupcakes. This increasingly popular dessert takes one of America's favorite baked desserts to a whole new level, offering 10 varieties a day, 5 of which are always available and the remaining 5 of which varies from day to day. Flavors range from the basic (milk chocolate or red velvet) to the exotic (ginger lemon or chai latte). The shop is hugely popular, but also a bit pricey (at $3.50 a pop), so if indulgent desserts are your thing, be sure to make a quick stop here.",
+    "price": "$3.25/each, $36/dozen",
+    "url": "http://www.sprinklescupcakes.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 34.069574,
+      "lon": -118.406053
+    },
+    "phone": "+1-310-274-8765"
+  },
+  {
+    "name": "Carousel Restaurant",
+    "content": "Truly fantastic Arabic and Armenian food for cheap.  The mezzes (appetizers) alone can make an amazing meal.",
+    "price": "$9",
+    "url": "http://www.carouselrestaurant.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 34.101378,
+      "lon": -118.301192
+    },
+    "phone": "+1 323 660-8060"
+  },
+  {
+    "name": "Rambutan Thai",
+    "content": "Delicious Thai food, moody atmosphere, really popular and open late on weekends.",
+    "price": "Mains $10-15",
+    "url": "http://www.rambutanthai.com",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 34.082615,
+      "lon": -118.2722
+    },
+    "phone": "+1 213 273-8424"
+  },
+  {
+    "name": "Saddle Peak Lodge",
+    "content": "A curious mix of country lodge and Hollywood hotspot. Offers a high-end dining experience in the hills overlooking Malibu. Business casual dress code (jeans OK)",
+    "price": "Main course $35-$55, Prix fix $85-185",
+    "url": "http://www.saddlepeaklodge.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 34.0966,
+      "lon": -118.67537
+    },
+    "phone": "+1 818 222-3888"
+  },
+  {
+    "name": "Inn of the Seventh Ray",
+    "content": "An idyllic (if pricey) outdoor dining experience beside Topanga Creek. All-organic menu featuring locally produced ingredients perfectly complement the adjunct new-age bookstore and shop that echoes Topanga's bohemian history.",
+    "price": "Main courses $25-$45",
+    "url": "http://innoftheseventhray.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 34.09222,
+      "lon": -118.6069
+    },
+    "phone": "+1 310 455-1311"
+  },
+  {
+    "name": "Canyon Bistro",
+    "content": "French / American Bistro located near where the old road joins Topanga Canyon Boulevard. On the pricey side, but the intimate setting and food quality one expects from Topanga mean you get what you pay for.",
+    "price": "Main courses $15-$25",
+    "url": "http://canyonbistrotopanga.com",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 34.090012,
+      "lon": -118.603794
+    },
+    "phone": "+1 310 455-7800"
+  },
+  {
+    "name": "Kanpai",
+    "content": "Small sushi bar with a large menu selection, and a special late-night ramen menu. Prices vary widely, so meals can be had anywhere between 'mid-range' and 'splurge' categories.",
+    "price": "$15-$30, higher for specialties",
+    "url": "http://www.kanpai-sushi.net",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 33.9619712,
+      "lon": -118.42139
+    },
+    "phone": "+1 310 338-7223"
+  },
+  {
+    "name": "Truxton's Bistro",
+    "content": "A neighborhood American-style bistro and bar that works a variety of different ethnic influences into its menu. The atmosphere is laid-back and the prices are reasonable for full-service dining.",
+    "price": "Main courses $12-$18",
+    "url": "http://www.truxtonsamericanbistro.com",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 33.95959,
+      "lon": -118.39361
+    },
+    "phone": "+1 310 417-8789"
+  },
+  {
+    "name": "Schellville Grill",
+    "content": "Popular local diner serving breakfast and barbecue lunch. It's been featured on Diners, Dives and Drive-In's. Casual, laid back vibe and a nice patio.",
+    "price": "$10-$18",
+    "url": "http://www.schellvillegrill.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 38.244311,
+      "lon": -122.448952
+    },
+    "phone": "+1 707-996-5151"
+  },
+  {
+    "name": "La Cucina at VJB Vineyard & Cellars",
+    "content": "Grab freshly made Italian panini, salad, meats, cheeses, and sides from this winery takeout spot. Many of the foods are family recipes. You can eat them at the onsite piazza or take them with you wherever you may roam. There is also an onsite pizza place with takeout and a gelato shop.",
+    "price": "$4-8",
+    "url": "http://vjbcellars.com/la-cucina/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 38.417412,
+      "lon": -122.550374
+    },
+    "phone": "+1 707-833-2300"
+  },
+  {
+    "name": "Picaso Cafe & Deli",
+    "content": "Family owned by the Chavez family, Picaso is a diner that serves breakfast and lunch. Bagels, breakfast sandwiches and special omelets are available in the morning and the afternoon brings fresh sandwiches and Picaso's house made grilled burger varieties served with fries. They serve local beer and wine. A local favorite.",
+    "price": "$3-$10",
+    "url": "http://picazocafe.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 38.297591,
+      "lon": -122.491441
+    },
+    "phone": "+1 707-931-4377"
+  },
+  {
+    "name": "Gourmet Taco Shop",
+    "content": "Tasty and cheap Mexican fast food. Indoor and outdoor tables, friendly service, and a salsa bar.",
+    "price": "$5-$10",
+    "url": "http://gourmettacoshop.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 38.299138,
+      "lon": -122.475842
+    },
+    "phone": "+1 707-935-1945"
+  },
+  {
+    "name": "Breakaway Cafe",
+    "content": "A casual restaurant with beautiful original artwork depicting the history of Sonoma Valley, Breakaway makes the best martini's in town - they have a cult following with locals. Prices are reasonable and the burgers, fresh seafood, and weekly specials are great. Comfort food with a twist.",
+    "price": "$11-$30",
+    "url": "http://www.breakawaycafe.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 38.300395,
+      "lon": -122.475246
+    },
+    "phone": "+1 707-996-5949"
+  },
+  {
+    "name": "Rancho Viejo",
+    "content": "Rancho Viejo is a delightful restaurant serving Yucatan cuisine in the evenings. Indoor and outdoor seating, good margaritas.",
+    "price": "$11-30",
+    "url": "http://www.ranchoviejosonoma.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 38.30343,
+      "lon": -122.477199
+    },
+    "phone": "+1 707-939-3663"
+  },
+  {
+    "name": "Juanita Juanita",
+    "content": "Woman owned Mexican restaurant with a quirky retro feel. Good food but it's more expensive than other Mexican restaurants in town.",
+    "price": "$11-25 - Cash only",
+    "url": "http://www.juanitajuanita.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 38.297281,
+      "lon": -122.491419
+    },
+    "phone": "+1 707-935-3981"
+  },
+  {
+    "name": "Palms Grill",
+    "content": "One of two locations in the area (the other is in [[Petaluma]]), this is All American diner food that is beloved by the &quot;mature set&quot; in Sonoma. Great breakfasts and American classics like meatfloaf and chicken fried steak. Weekly specials.",
+    "price": "$11-25",
+    "url": "http://www.palmsgrill.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 38.303035,
+      "lon": -122.476094
+    },
+    "phone": "+1 707-939-8100"
+  },
+  {
+    "name": "Shiso",
+    "content": "The ''only'' sushi restaurant in Sonoma Valley, Shiso is a classy place with fresh seafood each day and a rotating selection of experimental dishes, including &quot;carbonara fried rice&quot;. A real nice change from &quot;wine country eating&quot;.",
+    "price": "$35-$50",
+    "url": "http://www.shisorestaurant.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 38.300458,
+      "lon": -122.476167
+    },
+    "phone": "+1 707-933-9331"
+  },
+  {
+    "name": "Medieval Times Tournament and Dinner Show",
+    "content": "A Medieval feast dinner show that features knights, maidens, kings and jousting.",
+    "price": "Adults: $47.95, Children: $33.95. Check the website for discount coupons.",
+    "url": "http://www.medievaltimes.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 33.851448,
+      "lon": -117.997457
+    },
+    "phone": "+1 714 521-2342"
+  },
+  {
+    "name": "Tita's Pupuseria",
+    "content": "Salvadoran, Mexican, and American food. Incomparably good corn tortillas, freshly made with each meal.",
+    "price": "$3.00-16.75",
+    "url": "http://www.titaspupuseria.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 35.40311,
+      "lon": -119.40049
+    },
+    "phone": "+1 661 764-5111"
+  },
+  {
+    "name": "Annapurna Cuisine",
+    "content": "This Indian vegetarian restaurant serves up tasty South Indian dishes including a large selection of masala dosas. It's usually full of Indian families.",
+    "price": "Mains $6-10",
+    "url": "http://www.annapurnacuisine.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 34.02133,
+      "lon": -118.40174
+    },
+    "phone": "+1 310 204-5500"
+  },
+  {
+    "name": "S&W Country Diner",
+    "content": "Affordable, home-cooked style breakfast and lunch in a cozy, neighborhood diner. Food is good and portions are reasonably large, but be prepared for long lines in the mornings, especially on weekends. Cash only.",
+    "price": "$5-$10",
+    "url": "http://www.swdiner.com/",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 34.02211,
+      "lon": -118.39648
+    },
+    "phone": "+1 310 204-5136"
+  },
+  {
+    "name": "Gaby's Mediterranean Grill",
+    "content": "Reasonably priced and very tasty Lebanese restaurant. Seating is in an outdoor patio complete with hookahs, heat lamps, candles, and a bustling crowd that mixes young hipsters with Lebanese locals. Service is friendly and the place stays busy until closing.",
+    "price": "Meals are between $8 and $13",
+    "url": "http://www.gabysexpress.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 34.02031,
+      "lon": -118.40457
+    },
+    "phone": "+1 310 559-1808"
+  },
+  {
+    "name": "Giovanni's Trattoria and Pizzeria",
+    "content": "Neighborhood Italian restaurant.",
+    "price": "Meals are between $8 and $17",
+    "url": "http://www.giovannistrattoria.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 34.02254,
+      "lon": -118.39966
+    },
+    "phone": "+1 310-839-1757"
+  },
+  {
+    "name": "Kay & Dave's",
+    "content": "Tasty fresh Mex food made without lard or trans fats. The vibe is easy-going with plenty of outdoor seating (including a firepit) and a friendly, slightly quirky staff. Happy hour specials include 2-for-one margaritas and appetizer specials.",
+    "price": "$10-$20 per person",
+    "url": "http://www.kayndaves.com",
+    "geo": {
+      "accuracy": "APPROXIMATE",
+      "lat": 34.02483,
+      "lon": -118.39361
+    },
+    "phone": "+1 310 558-8100"
+  },
+  {
+    "name": "K-Zo",
+    "content": "Another restaurant born of Culver City's downtown renaissance, K-Zo is a sushi bar and &quot;Japanese tapas&quot; restaurant, offering various hot and cold bites in addition to the more standard Japanese fare. Prices are a bit higher than some other restaurants, but the food is generally excellent, service is friendly, and the atmosphere is great. For those seeking to maximize their eating dollar, the popcorn shrimp nuggets ($8.50) and eel avocado roll ($6) are particularly tasty and filling.",
+    "price": "$6-$15 for most sushi rolls and tapas items",
+    "url": "http://www.k-zo.com",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 34.02517,
+      "lon": -118.39314
+    },
+    "phone": "+1 310 202-8890"
+  },
+  {
+    "name": "Tender Greens",
+    "content": "As you might guess, the emphasis here is on the fresh salads of all types, but you can get them small, meal-sized or pair them with steak, chicken or fish.  This popular eatery uses local, organic produce to assemble fresh and healthy salads and soups, as well as delectable hot dishes from the grill, such as free-range chicken, Angus flatiron steak, and line-caught tuna. This eco-conscious restaurant also uses biodegradable to-go containers, reclaimed timber, and non-toxic cleaners. The atmosphere is relaxed and beautiful, with a spacious patio for outdoor dining.  Portions are large, and a wide array of boutique wines and microbrews will please any palate. Friendly service.",
+    "price": "$5 and up",
+    "url": "http://www.tendergreensfood.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 34.02318,
+      "lon": -118.39494
+    },
+    "phone": "+1 310 842-8300"
+  },
+  {
+    "name": "Ugo",
+    "content": "A cozy Italian cafe with extensive outdoor seating and a reasonably-authentic Italian menu.  This establishment specializes in Italian cafe food, so expect sandwiches, carpacchio, insalata, pasta, and gelato rather than the standard &quot;spaghetti and steaks&quot; fare common at most Italian restaurants.",
+    "price": "$10-$30",
+    "url": "http://cafeugo.com",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 34.02458,
+      "lon": -118.39584
+    },
+    "phone": "+1 310 204-1222"
+  },
+  {
+    "name": "Akasha Restaurant",
+    "content": "Features New American food, meaning that everything is delicious, organic, and local. You'll never feel trendier but welcomed. Good for dates and business meetings.  There is also a well-stocked bar.",
+    "price": "$15-$35",
+    "url": "http://www.akasharestaurant.com",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 34.02314,
+      "lon": -118.39489
+    },
+    "phone": "+1 310 845-1700"
+  },
+  {
+    "name": "Waterloo & City",
+    "content": "This upscale pub combines French/British fusion cuisine with an impressive wine and beer list - beer connoisseurs will love the selection while those who prefer Buddweiser might prefer going elsewhere.  It is named for the London underground railway line where the co-owner/chef began his youthful world adventures.  Staff is attentive, intelligent and friendly, and while portions aren't huge the food is extremely well prepared.  Favorites include the sticky toffee pudding. Daily happy hour from 5-7PM.",
+    "price": "$15-$30 for meals",
+    "url": "http://www.waterlooandcity.com/",
+    "geo": {
+      "accuracy": "ROOFTOP",
+      "lat": 33.99686,
+      "lon": -118.43135
+    },
+    "phone": "+1 310-391-4222"
+  },
+  {
+    "name": "Old Place Restaurant",
+    "content": "TINY, rustic, country-style dining experience near Malibu Lakes. A great place for a good steak or steamed clams. Reservations absolutely required (and be punctual). Located in a quiet residential area, so be careful of disturbing the neighbors if you decide to visit.",
+    "price": "Entree $14-$20",
+    "url": "http://www.oldplacecornell.com/",
+    "geo": {
+      "accuracy": "RANGE_INTERPOLATED",
+      "lat": 34.11442,
+      "lon": -118.77824
+    },
+    "phone": "+1 818 706-9001"
+  }
+]

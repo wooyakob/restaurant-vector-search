@@ -1,0 +1,91 @@
+{
+  "type": "fulltext-index",
+  "name": "restaurants.california.ca-eateries-index",
+  "uuid": "482bf731ad450be4",
+  "sourceType": "gocbcore",
+  "sourceName": "restaurants",
+  "sourceUUID": "65c39d5f15027a1e97def68b74f46557",
+  "planParams": {
+    "maxPartitionsPerPIndex": 103,
+    "indexPartitions": 10
+  },
+  "params": {
+    "doc_config": {
+      "docid_prefix_delim": "",
+      "docid_regexp": "",
+      "mode": "scope.collection.type_field",
+      "type_field": "type"
+    },
+    "mapping": {
+      "analysis": {},
+      "default_analyzer": "standard",
+      "default_datetime_parser": "dateTimeOptional",
+      "default_field": "_all",
+      "default_mapping": {
+        "dynamic": true,
+        "enabled": false
+      },
+      "default_type": "_default",
+      "docvalues_dynamic": true,
+      "index_dynamic": true,
+      "store_dynamic": false,
+      "type_field": "_type",
+      "types": {
+        "california.vector": {
+          "dynamic": false,
+          "enabled": true,
+          "properties": {
+            "content": {
+              "dynamic": false,
+              "enabled": true,
+              "fields": [
+                {
+                  "analyzer": "en",
+                  "index": true,
+                  "name": "content",
+                  "store": true,
+                  "type": "text"
+                }
+              ]
+            },
+            "embedding": {
+              "dynamic": false,
+              "enabled": true,
+              "fields": [
+                {
+                  "dims": 384,
+                  "index": true,
+                  "name": "embedding",
+                  "similarity": "dot_product",
+                  "type": "vector",
+                  "vector_index_optimized_for": "recall"
+                }
+              ]
+            },
+            "name": {
+              "dynamic": false,
+              "enabled": true,
+              "fields": [
+                {
+                  "analyzer": "keyword",
+                  "index": true,
+                  "name": "name",
+                  "store": true,
+                  "type": "text"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "store": {
+      "indexType": "scorch",
+      "segmentVersion": 16
+    }
+  },
+  "sourceParams": {
+    "collection": "vector",
+    "scope": "california"
+  }
+}
