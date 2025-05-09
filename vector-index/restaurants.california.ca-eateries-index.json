@@ -1,7 +1,7 @@
 {
   "type": "fulltext-index",
   "name": "restaurants.california.ca-eateries-index",
-  "uuid": "482bf731ad450be4",
+  "uuid": "7db3ad0685b3e89d",
   "sourceType": "gocbcore",
   "sourceName": "restaurants",
   "sourceUUID": "65c39d5f15027a1e97def68b74f46557",
@@ -62,6 +62,36 @@
                 }
               ]
             },
+            "geo": {
+              "dynamic": false,
+              "enabled": true,
+              "properties": {
+                "lat": {
+                  "dynamic": false,
+                  "enabled": true,
+                  "fields": [
+                    {
+                      "index": true,
+                      "name": "lat",
+                      "store": true,
+                      "type": "number"
+                    }
+                  ]
+                },
+                "lon": {
+                  "dynamic": false,
+                  "enabled": true,
+                  "fields": [
+                    {
+                      "index": true,
+                      "name": "lon",
+                      "store": true,
+                      "type": "number"
+                    }
+                  ]
+                }
+              }
+            },
             "name": {
               "dynamic": false,
               "enabled": true,
@@ -70,6 +100,45 @@
                   "analyzer": "keyword",
                   "index": true,
                   "name": "name",
+                  "store": true,
+                  "type": "text"
+                }
+              ]
+            },
+            "phone": {
+              "dynamic": false,
+              "enabled": true,
+              "fields": [
+                {
+                  "analyzer": "en",
+                  "index": true,
+                  "name": "phone",
+                  "store": true,
+                  "type": "text"
+                }
+              ]
+            },
+            "price": {
+              "dynamic": false,
+              "enabled": true,
+              "fields": [
+                {
+                  "analyzer": "en",
+                  "index": true,
+                  "name": "price",
+                  "store": true,
+                  "type": "text"
+                }
+              ]
+            },
+            "url": {
+              "dynamic": false,
+              "enabled": true,
+              "fields": [
+                {
+                  "analyzer": "en",
+                  "index": true,
+                  "name": "url",
                   "store": true,
                   "type": "text"
                 }

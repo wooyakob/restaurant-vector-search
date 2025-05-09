@@ -8,7 +8,6 @@ from app.vector_search import RestaurantSearch
 
 app = Flask(__name__)
 
-# Initialize Couchbase cluster connection for use in the count endpoint
 pa = PasswordAuthenticator(os.getenv("CB_USERNAME"), os.getenv("CB_PASSWORD"))
 cluster = Cluster(os.getenv("CB_HOSTNAME"), ClusterOptions(pa))
 

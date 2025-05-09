@@ -31,9 +31,14 @@ form {
 
 input[type="text"] {
     padding: 8px;
-    width: 250px;
+    width: auto;      
+    min-width: 250px; 
     border: 1px solid #000000;
     border-radius: 4px;
+}
+
+input#query {
+    width: 100%;
 }
 
 input[type="submit"],
@@ -103,4 +108,14 @@ button:hover {
     font-size: 16px;
     z-index: 1000;
     color: #000000;
+}
+
+
+@media (max-width: 480px) {
+    .restaurant-count {
+        top: 10px;
+        right: 10px;
+        font-size: 12px;
+        padding: 8px 10px;
+    }
 }
