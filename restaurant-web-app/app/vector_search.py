@@ -34,7 +34,7 @@ class RestaurantSearch:
             rows = result.rows()
             filtered_results = []
             
-            gmaps_key = os.getenv("GMAPS")
+            gmaps_key = os.getenv("GMAPS_API_KEY")
             for row in rows:
                 lat = row.fields.get("geo.lat")
                 lon = row.fields.get("geo.lon")
