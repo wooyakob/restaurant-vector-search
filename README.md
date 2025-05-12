@@ -43,17 +43,8 @@ This web app demonstrates vector search for restaurants in California stored in 
 
 ## Setup
 ### Environment Variables
-Create a `.env` file and set the following values:
-```
-CLUSTER_ACCESS=
-OPENAI_API_KEY=
-GMAPS=
-CB_USERNAME=
-CB_PASSWORD=
-CB_HOSTNAME=
-INPUT_PATH=
-OUTPUT_PATH=
-```
+Create a `.env` file and set values in `.env.example`
+
 Will need to setup an Open AI and Google Maps API key separately.
 
 ### Running the App
