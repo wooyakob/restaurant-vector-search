@@ -1,9 +1,9 @@
 # California Restaurant Finder
 This web app demonstrates vector search for restaurants in California stored in Couchbase Capella. It extracts restaurant data from the Landmark collection (via a SQL++ query in `ca-eateries.sql`), generates embeddings using a sentence-transformer model, and performs semantic search using dot product similarity.
 
-![Search Bar](restaurant-vector-search/search-bar.png)
-![Search Results](restaurant-vector-search/search-results.png)
-![Restaurant Discovered](restaurant-vector-search/restaurant-discovered.png)
+![Search Bar](search-bar.png)
+![Search Results](search-results.png)
+![Restaurant Discovered](restaurant-discovered.png)
 
 ## Overview
 ### Data Source
